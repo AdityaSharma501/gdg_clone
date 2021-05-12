@@ -3,7 +3,8 @@ background:black;
 }
 
 * body,nav{
- font-size: 14px !important;
+ font-size: 17px !important;
+
  font-family:google sans;
     text-transform: none !important;
     font-weight: normal;
@@ -11,6 +12,13 @@ background:black;
     background-color: transparent;
     background-color: #fff;
    
+}
+nav{
+  color: #fff;
+}
+.contnav{
+  padding-left: 0%!important;
+  padding-right: 0% !important;
 }
 nav{
   letter-spacing: 0.5px;
@@ -41,4 +49,41 @@ position: absolute;
 }
 .logo{
 padding:0.3rem;
+}
+
+
+.card-img-top
+{
+    width:173px;
+    height:173px;
+    margin: 4%;
+    margin-bottom: 7%;
+}
+.card{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    padding: 26px;
+    border-radius: 2%;
+}
+.card-text{
+    font-size: 18px;
+    color: #9ba4a8; 
+}
+.date{
+    font-size: 16px;;
+}
+.card-profile-name
+{
+    color:#9ba4a8;
+    font-weight: 600;
+}
+.card-prof-designation{
+    color:#9ba4a8;
+    font-size: 14px;
+}
+.btn{
+    font-size: 15px;
+    padding: 7px 35px;
+    border-radius: 3px;
 }
