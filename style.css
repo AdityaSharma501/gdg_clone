@@ -10,6 +10,11 @@ background:black;
     font-weight: 400 !important;
     background-color: transparent;
     background-color: #fff;
+   
+}
+nav{
+  letter-spacing: 0.5px;
+  padding-top: 20px;
 }
 .bg-dark{
 background:black!important;
@@ -22,10 +27,18 @@ background:black!important;
   top: 20px;
 
 }
+.searchposition{
+  background-color: grey;
+}
 .clo{
 position:absolute;
+font-size: 30px;
 right:5px;
-color:white;
 
+position: absolute;
+ top: 1.3rem;
 
+}
+.logo{
+padding:0.3rem;
 }
