@@ -208,6 +208,9 @@
   .laline{
     float: left;
   } 
+  .do{
+    padding-left: 1rem !important;
+  } 
   }
   .ficon{
     text-align: center;

@@ -379,4 +379,7 @@ border-radius: 10px;
   .laline{
     float: left !important;
   } 
+  .do{
+    padding-left: 1rem !important;
+  } 
   }
